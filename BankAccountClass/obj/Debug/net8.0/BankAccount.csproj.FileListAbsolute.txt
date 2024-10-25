@@ -1,0 +1,14 @@
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.exe
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.deps.json
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.dll
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.pdb
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.dll
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\refint\BankAccount.dll
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.pdb
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+c:\RandD\C#\SampleApps\APL2007M5BankAccount\BankAccountClass\obj\Debug\net8.0\ref\BankAccount.dll
